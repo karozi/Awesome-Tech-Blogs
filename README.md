@@ -1,4 +1,8 @@
-# Awesome Tech Blogs (Updated 20 Sep 2025)
+# Awesome Tech Blogs (Updated 23 Sep 2025)
+
+  [![Product with Attitude](https://img.shields.io/badge/Product%20with-Attitude-FF6851?style=for-the-badge)](https://karozieminski.substack.com/)
+  [![Made with Love](https://img.shields.io/badge/made%20with-🧡-orange?style=for-the-badge)](https://stackshelf.app)
+
 
 ## Top Free Newsletters to Follow in 2025
 
@@ -25,8 +29,9 @@
 * [Launch Lama](https://dub.sh/launchlama) - Where tech leaders stay ahead with the smartest new tools — trusted by 10k+ builders at Google, Stripe, and Notion.
 
 
+## See also
 
-
+* [Product People of Substack](https://github.com/karozi/Product-People-of-Substack)
 
 
 
